@@ -26,14 +26,7 @@ This project is intended for **entry-level cybersecurity learners** to gain hand
 ---
 
 ## Sample Log Format
-The script expects log entries containing the phrase:
-Security Alert Report
-------------------------------
-[!] Suspicious IP Detected: 192.168.1.10 (3 failed attempts)
-
-Summary
-Total Failed Attempts: 4
-Unique IP Addresses: 2
+The analyzer supports simplified and realistic Linux authentication logs.
 
 ---
 
