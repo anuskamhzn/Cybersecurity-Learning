@@ -27,17 +27,20 @@ extracts it back without visibly altering the image.
 ### Install dependency
 ```bash
 pip install pillow
+```
 
 Encode a message:
 ```bash
 python encode.py
 ```
+
 ```bash
 Example input:
 Enter image name: sample_image.png
 Enter secret message: Hello from steganography
 Enter output image name: output.png
 ```
+
 Decode the message:
 ```bash
 python decode.py
