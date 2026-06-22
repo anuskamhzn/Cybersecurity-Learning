@@ -7,7 +7,7 @@ E.g. Laptop, printers, smartphones etc.
 ### 1. Establishing a Network
 - First, physical or wireless connections must be made to form the network infrastructure.
 
-- The Details: Devices (like computers, servers, and smartphones) are linked using physical cables (like Ethernet or fiber optics) or wireless technologies (like Wi-Fi and cellular networks).
+- Devices (like computers, servers, and smartphones) are linked using physical cables (like Ethernet or fiber optics) or wireless technologies (like Wi-Fi and cellular networks).
 
 ### 2. Communication Protocols
 - Once the network is physically established, devices must speak the same language to communicate efficiently. This "language" is called a Protocol.
