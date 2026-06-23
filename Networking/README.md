@@ -8,7 +8,7 @@ Networking is the foundation of modern communication and cybersecurity.
 Understanding how devices communicate helps in:
 - Troubleshooting network issues
 - Understanding internet communication
-- Monitoring netowrk traffic
+- Monitoring network traffic
 - Detecting security threats
 - Proforming cybersecurity assessments
 
