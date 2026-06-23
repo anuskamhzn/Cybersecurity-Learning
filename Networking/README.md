@@ -3,6 +3,15 @@
 Networking is a group of computers and devices linked together in a way that allows them to communicate and share resources with each other.
 E.g. Laptop, printers, smartphones etc.
 
+## Why Networking matters
+Networking is the foundation of modern communication and cybersecurity.
+Understanding how devices communicate helps in:
+- Troubleshooting network issues
+- Understanding internet communication
+- Monitoring netowrk traffic
+- Detecting security threats
+- Proforming cybersecurity assessments
+
 ## How computer network work?
 ### 1. Establishing a Network
 - First, physical or wireless connections must be made to form the network infrastructure.
@@ -33,3 +42,49 @@ E.g. Laptop, printers, smartphones etc.
 - The receiving device collects all the incoming packets, puts them back in the correct order, and checks for errors.
 
 - The Feedback Loop: If a packet arrives corrupted or gets lost along the way, the receiving device asks the sender to retransmit it. Once everything arrives perfectly, a confirmation (ACK) is finalized, and the data is displayed to the user.
+
+## Core Networking Concepts
+The following topics form the foundation of networking knowledge:
+- OSI Model
+- TCP/IP model
+- IP Addresses
+- DNS (Domain Name System)
+- DHCP (Dynamic Host Configuration Protocol)
+- Routing
+- Switching
+- Ports and Protocols
+- Subnetting
+- Network Security Fundamentals
+
+## Networking Topics to coverage:
+| Topics       | Description                          |
+|-------------|-------------------------------------|
+| TCP/IP     |  Core protocol suite used for network communication  |
+| DNS         | Translates domain names into IP addresses  |
+| IP Addressing    | Identifies devices on a network  |
+| Subnetting    | Divides networks into smaller segments    |
+| Routing | Determines packet paths between networks              |
+| Switching | Connects devices within a network         |
+| Ports & Protocols    | Defines services and communication methods                         |
+| OSI Model    | Conceptual networking framework    |
+| DHCP | Automatic IP address assignment           |
+| Networking & security | Security concepts and network protection        |
+
+## Learning Path
+### Networking Basics
+        ↓
+### OSI Model
+        ↓
+### TCP/IP
+        ↓
+### IP Addressing
+        ↓
+### DNS & DHCP
+        ↓
+### Ports & Protocols
+        ↓
+### Routing & Switching
+        ↓
+### Subnetting
+        ↓
+### Network Security
